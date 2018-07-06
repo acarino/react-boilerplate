@@ -1,0 +1,11 @@
+# NODE
+
+node_modules
+
+# Project
+
+dist/
+
+
+# Mac files
+.DS_Store
