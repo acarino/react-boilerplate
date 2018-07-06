@@ -2,6 +2,11 @@
 
 node_modules
 
-#Project
+
+# Project
 
 dist/
+
+
+# Mac files
+.DS_Store
